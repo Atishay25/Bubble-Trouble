@@ -1,6 +1,7 @@
 #include <simplecpp>
 #include "shooter.h"
 #include "bubble.h"
+#include <sstream>
 
 /* Simulation Vars */
 const double STEP_TIME = 0.02;
